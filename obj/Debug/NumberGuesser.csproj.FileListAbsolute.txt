@@ -4,3 +4,14 @@ d:\dropbox\documents\visual studio 2017\Projects\NumberGuesser\bin\Debug\NumberG
 d:\dropbox\documents\visual studio 2017\Projects\NumberGuesser\obj\Debug\NumberGuesser.csprojResolveAssemblyReference.cache
 d:\dropbox\documents\visual studio 2017\Projects\NumberGuesser\obj\Debug\NumberGuesser.exe
 d:\dropbox\documents\visual studio 2017\Projects\NumberGuesser\obj\Debug\NumberGuesser.pdb
+C:\Users\hamidreza\Documents\Java\NumberG\numberguesser\bin\Debug\NumberGuesser.exe.config
+C:\Users\hamidreza\Documents\Java\NumberG\numberguesser\bin\Debug\NumberGuesser.exe
+C:\Users\hamidreza\Documents\Java\NumberG\numberguesser\bin\Debug\NumberGuesser.pdb
+C:\Users\hamidreza\Documents\Java\NumberG\numberguesser\obj\Debug\NumberGuesser.csproj.AssemblyReference.cache
+C:\Users\hamidreza\Documents\Java\NumberG\numberguesser\obj\Debug\NumberGuesser.csproj.CoreCompileInputs.cache
+C:\Users\hamidreza\Documents\Java\NumberG\numberguesser\obj\Debug\NumberGuesser.exe
+C:\Users\hamidreza\Documents\Java\NumberG\numberguesser\obj\Debug\NumberGuesser.pdb
+C:\Users\hamidreza\Documents\Java\NumberG\numberguesser\bin\Debug\NumberGuesser.exe.manifest
+C:\Users\hamidreza\Documents\Java\NumberG\numberguesser\bin\Debug\NumberGuesser.application
+C:\Users\hamidreza\Documents\Java\NumberG\numberguesser\obj\Debug\NumberGuesser.exe.manifest
+C:\Users\hamidreza\Documents\Java\NumberG\numberguesser\obj\Debug\NumberGuesser.application

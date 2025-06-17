@@ -1,0 +1,22 @@
+# Build output
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Logs
+*.log
+
+# Runtime files
+*.db
+
+# Secrets
+appsettings.Development.json
+
+# OS/system files
+.DS_Store
+Thumbs.db
+*.csproj.user
